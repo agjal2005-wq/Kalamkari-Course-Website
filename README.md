@@ -4,7 +4,7 @@ A responsive Kalamkari Course website built using **HTML5** and **CSS3**.
 This project focuses on clean UI design, layout structuring, and basic responsiveness.
 
 ## Live Demo
-https://agjal2005-wq.github.io/hotel/
+https://agjal2005-wq.github.io/Kalamkari-Course-Website/
 
 ## Features
 - Clean and simple user interface
