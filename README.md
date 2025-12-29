@@ -1,4 +1,4 @@
-# Hotel Website
+# Kalamkari Course Website
 
 A responsive Kalamkari Course website built using **HTML5** and **CSS3**.  
 This project focuses on clean UI design, layout structuring, and basic responsiveness.
